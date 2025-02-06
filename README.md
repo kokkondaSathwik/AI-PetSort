@@ -1,2 +1,2 @@
 # AI-PetSort
-Developed a CNN to classify pets
+Developed a CNN Model to classify pets
